@@ -1,4 +1,5 @@
 # DSA-ASSIGNMENT_1
+SCHOLAR ID- 2012101
 
 1. Write a C compiler to check whether a given number is a valid floating point number or not. Write
 for all possible all test cases. Example:
